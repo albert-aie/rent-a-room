@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project
 
-"Rent a Room" is a FastAPI booking API built incrementally as a course project ("sections 1-10" per `pyproject.toml`). Python 3.14, managed with `uv`. It is a git repository (branch `main`, no remote). There is no test suite yet.
+"Rent a Room" is a FastAPI booking API built incrementally as a course project ("sections 1-10" per `pyproject.toml`). Python 3.14, managed with `uv`. It is a git repository (branch `main`, remote `origin` → `github.com/albert-aie/rent-a-room`). There is no test suite yet.
 
 ## Commands
 
